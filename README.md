@@ -1,0 +1,1 @@
+Project with end goal of functioning as a social network API. Create an account, add and chat with friends using posts. Still needs significant work to function properly.
